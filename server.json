@@ -1,0 +1,10 @@
+{
+  "equipes": [
+    {
+      "id": 1,
+      "nome": "Foco",
+      "email": "bruno@fococomunicacao.com",
+      "senha": "foco"
+    }
+  ]
+}
